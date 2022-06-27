@@ -1,4 +1,4 @@
-package com.xusheng.proxy;
+package com.xusheng.rpc.proxy;
 
 /**
  * @Author xusheng

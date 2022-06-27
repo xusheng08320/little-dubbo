@@ -1,4 +1,4 @@
-package com.xusheng.serialize;
+package com.xusheng.remoting.serialize;
 
 /**
  * @Author xusheng

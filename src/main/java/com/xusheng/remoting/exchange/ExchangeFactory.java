@@ -1,4 +1,4 @@
-package com.xusheng.exchange;
+package com.xusheng.remoting.exchange;
 
 /**
  * @Author xusheng

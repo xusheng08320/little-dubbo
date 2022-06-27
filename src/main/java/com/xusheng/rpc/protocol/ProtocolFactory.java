@@ -1,4 +1,4 @@
-package com.xusheng.protocol;
+package com.xusheng.rpc.protocol;
 
 /**
  * @Author xusheng

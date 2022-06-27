@@ -1,4 +1,4 @@
-package com.xusheng.cluster;
+package com.xusheng.rpc.cluster;
 
 /**
  * @Author xusheng
